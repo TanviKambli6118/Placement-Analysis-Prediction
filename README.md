@@ -25,8 +25,9 @@ Academic performance
 🛠️ Tech Stack
 Python
 Pandas & NumPy – Data handling
-Matplotlib / Seaborn / Plotly – Visualization
+Matplotlib / Seaborn / Visualization
 Google Colab – Execution
+Machine Learning Models 
 
 📂 Dataset
 Student placement dataset
